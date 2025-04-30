@@ -477,17 +477,26 @@
         <mxCell id="XTc9dN6DFgT7qN0inqG1-132" value="金额" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="310" y="830" width="50" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="XTc9dN6DFgT7qN0inqG1-141" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="XTc9dN6DFgT7qN0inqG1-133" target="XTc9dN6DFgT7qN0inqG1-99">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="XTc9dN6DFgT7qN0inqG1-133" value="套餐ID" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="229" y="960" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="XTc9dN6DFgT7qN0inqG1-134" value="菜品ID" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="339" y="880" width="50" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="XTc9dN6DFgT7qN0inqG1-142" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="XTc9dN6DFgT7qN0inqG1-135" target="XTc9dN6DFgT7qN0inqG1-99">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="XTc9dN6DFgT7qN0inqG1-135" value="口味" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="320" y="930" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="XTc9dN6DFgT7qN0inqG1-136" value="数量" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="320" y="990" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XTc9dN6DFgT7qN0inqG1-140" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.177;entryY=0.871;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="XTc9dN6DFgT7qN0inqG1-131" target="XTc9dN6DFgT7qN0inqG1-99">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
