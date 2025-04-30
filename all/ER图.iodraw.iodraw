@@ -215,7 +215,7 @@
         <mxCell id="XTc9dN6DFgT7qN0inqG1-56" value="管理" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="500" y="530" width="50" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="XTc9dN6DFgT7qN0inqG1-70" value="性别" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="XTc9dN6DFgT7qN0inqG1-70" value="订单号" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="200" y="610" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="XTc9dN6DFgT7qN0inqG1-71" value="ID" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
