@@ -569,6 +569,9 @@
         <mxCell id="XTc9dN6DFgT7qN0inqG1-158" value="套餐价格" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="269" y="1130" width="70" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="XTc9dN6DFgT7qN0inqG1-167" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="XTc9dN6DFgT7qN0inqG1-159" target="XTc9dN6DFgT7qN0inqG1-151">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="XTc9dN6DFgT7qN0inqG1-159" value="状态" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="340" y="1080" width="50" height="30" as="geometry" />
         </mxCell>
