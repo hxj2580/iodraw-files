@@ -786,6 +786,11 @@
         <mxCell id="XTc9dN6DFgT7qN0inqG1-213" value="ID" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="549" y="1149" width="50" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="XTc9dN6DFgT7qN0inqG1-218" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="XTc9dN6DFgT7qN0inqG1-214">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="650" y="1130" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="XTc9dN6DFgT7qN0inqG1-214" value="口味名称" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="619" y="1149" width="50" height="30" as="geometry" />
         </mxCell>
