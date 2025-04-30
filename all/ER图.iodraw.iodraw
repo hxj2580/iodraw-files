@@ -368,7 +368,7 @@
           <mxGeometry x="729" y="640" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="XTc9dN6DFgT7qN0inqG1-99" value="订单明细" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="70" y="880" width="50" height="20" as="geometry" />
+          <mxGeometry x="49" y="890" width="50" height="20" as="geometry" />
         </mxCell>
         <mxCell id="XTc9dN6DFgT7qN0inqG1-100" value="员工/管理员" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="420" y="790" width="70" height="20" as="geometry" />
