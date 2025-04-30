@@ -206,7 +206,7 @@
         <mxCell id="XTc9dN6DFgT7qN0inqG1-53" value="订单" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="320" y="530" width="50" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="XTc9dN6DFgT7qN0inqG1-98" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="XTc9dN6DFgT7qN0inqG1-55">
+        <mxCell id="XTc9dN6DFgT7qN0inqG1-98" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="XTc9dN6DFgT7qN0inqG1-55" target="XTc9dN6DFgT7qN0inqG1-99">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="40" y="760" as="targetPoint" />
           </mxGeometry>
@@ -351,8 +351,8 @@
         <mxCell id="XTc9dN6DFgT7qN0inqG1-81" value="下单时间" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="729" y="640" width="50" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="XTc9dN6DFgT7qN0inqG1-99" value="订单" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="20" y="770" width="50" height="20" as="geometry" />
+        <mxCell id="XTc9dN6DFgT7qN0inqG1-99" value="订单明细" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="10" y="770" width="50" height="20" as="geometry" />
         </mxCell>
         <mxCell id="XTc9dN6DFgT7qN0inqG1-100" value="订单" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="510" y="770" width="50" height="20" as="geometry" />
