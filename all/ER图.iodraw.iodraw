@@ -545,7 +545,7 @@
           <mxGeometry x="379" y="930" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="XTc9dN6DFgT7qN0inqG1-151" value="套餐" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="174" y="1035" width="50" height="20" as="geometry" />
+          <mxGeometry x="169" y="1040" width="50" height="20" as="geometry" />
         </mxCell>
         <mxCell id="XTc9dN6DFgT7qN0inqG1-154" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="XTc9dN6DFgT7qN0inqG1-153" target="XTc9dN6DFgT7qN0inqG1-151">
           <mxGeometry relative="1" as="geometry" />
@@ -565,19 +565,19 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="XTc9dN6DFgT7qN0inqG1-156" value="菜品分类ID" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="60" y="1050" width="70" height="30" as="geometry" />
+          <mxGeometry x="70" y="1010" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="XTc9dN6DFgT7qN0inqG1-165" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="XTc9dN6DFgT7qN0inqG1-157" target="XTc9dN6DFgT7qN0inqG1-151">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="XTc9dN6DFgT7qN0inqG1-157" value="套餐名称" style="ellipse;whiteSpace=wrap;html=1;fontStyle=0" vertex="1" parent="1">
-          <mxGeometry x="109" y="1080" width="70" height="30" as="geometry" />
+          <mxGeometry x="60" y="1050" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="XTc9dN6DFgT7qN0inqG1-166" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="XTc9dN6DFgT7qN0inqG1-158" target="XTc9dN6DFgT7qN0inqG1-151">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="XTc9dN6DFgT7qN0inqG1-158" value="套餐价格" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="174" y="1100" width="70" height="30" as="geometry" />
+          <mxGeometry x="49" y="1100" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="XTc9dN6DFgT7qN0inqG1-167" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="XTc9dN6DFgT7qN0inqG1-159" target="XTc9dN6DFgT7qN0inqG1-151">
           <mxGeometry relative="1" as="geometry" />
