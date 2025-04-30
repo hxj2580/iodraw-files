@@ -600,7 +600,10 @@
           <mxGeometry x="310" y="1050" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="XTc9dN6DFgT7qN0inqG1-173" value="套餐菜品关系" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="169" y="1110" width="50" height="20" as="geometry" />
+          <mxGeometry x="169" y="1120" width="81" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="XTc9dN6DFgT7qN0inqG1-174" value="ID" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="840" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
