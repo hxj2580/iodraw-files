@@ -53,8 +53,11 @@
         <mxCell id="XTc9dN6DFgT7qN0inqG1-8" value="姓名" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="320" y="310" width="50" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="XTc9dN6DFgT7qN0inqG1-16" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="XTc9dN6DFgT7qN0inqG1-16" value="所属" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="490" y="405" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XTc9dN6DFgT7qN0inqG1-17" value="所属" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="500" y="415" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
