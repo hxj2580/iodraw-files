@@ -216,43 +216,45 @@
           <mxGeometry x="500" y="530" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="XTc9dN6DFgT7qN0inqG1-70" value="订单号" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="140" y="610" width="50" height="30" as="geometry" />
+          <mxGeometry x="109" y="630" width="50" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="XTc9dN6DFgT7qN0inqG1-84" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="XTc9dN6DFgT7qN0inqG1-71" target="XTc9dN6DFgT7qN0inqG1-53">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="XTc9dN6DFgT7qN0inqG1-84" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="XTc9dN6DFgT7qN0inqG1-71">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="314" y="570" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="XTc9dN6DFgT7qN0inqG1-71" value="ID" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="80" y="610" width="50" height="30" as="geometry" />
+          <mxGeometry x="49" y="630" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="XTc9dN6DFgT7qN0inqG1-72" value="地址" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="460" y="610" width="50" height="30" as="geometry" />
+          <mxGeometry x="429" y="630" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="XTc9dN6DFgT7qN0inqG1-73" value="下单用户ID" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="379" y="610" width="70" height="30" as="geometry" />
+          <mxGeometry x="348" y="630" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="XTc9dN6DFgT7qN0inqG1-74" value="地址ID" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="320" y="610" width="50" height="30" as="geometry" />
+          <mxGeometry x="289" y="630" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="XTc9dN6DFgT7qN0inqG1-75" value="订单状态" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="200" y="610" width="50" height="30" as="geometry" />
+          <mxGeometry x="169" y="630" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="XTc9dN6DFgT7qN0inqG1-76" value="手机号码" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="260" y="610" width="50" height="30" as="geometry" />
+          <mxGeometry x="229" y="630" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="XTc9dN6DFgT7qN0inqG1-77" value="实收金额" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="640" y="610" width="50" height="30" as="geometry" />
+          <mxGeometry x="609" y="630" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="XTc9dN6DFgT7qN0inqG1-78" value="用户名" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="520" y="610" width="50" height="30" as="geometry" />
+          <mxGeometry x="489" y="630" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="XTc9dN6DFgT7qN0inqG1-79" value="备注" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="580" y="610" width="50" height="30" as="geometry" />
+          <mxGeometry x="549" y="630" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="XTc9dN6DFgT7qN0inqG1-80" value="结账时间" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="700" y="610" width="50" height="30" as="geometry" />
+          <mxGeometry x="669" y="630" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="XTc9dN6DFgT7qN0inqG1-81" value="下单时间" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="760" y="610" width="50" height="30" as="geometry" />
+          <mxGeometry x="729" y="630" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
