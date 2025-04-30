@@ -807,7 +807,7 @@
         <mxCell id="XTc9dN6DFgT7qN0inqG1-220" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="XTc9dN6DFgT7qN0inqG1-215" target="XTc9dN6DFgT7qN0inqG1-208">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="694" y="1150" />
+              <mxPoint x="675" y="1150" />
               <mxPoint x="650" y="1150" />
             </Array>
           </mxGeometry>
@@ -818,13 +818,13 @@
         <mxCell id="XTc9dN6DFgT7qN0inqG1-221" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="XTc9dN6DFgT7qN0inqG1-216" target="XTc9dN6DFgT7qN0inqG1-208">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="787" y="1150" />
+              <mxPoint x="750" y="1150" />
               <mxPoint x="650" y="1150" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="XTc9dN6DFgT7qN0inqG1-216" value="口味数据列表" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="747" y="1220" width="80" height="30" as="geometry" />
+          <mxGeometry x="710" y="1179" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
