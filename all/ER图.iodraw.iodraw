@@ -523,8 +523,11 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="XTc9dN6DFgT7qN0inqG1-149" value="所属" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="379" y="1240" width="50" height="30" as="geometry" />
+        <mxCell id="XTc9dN6DFgT7qN0inqG1-149" value="管理" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="379" y="930" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XTc9dN6DFgT7qN0inqG1-151" value="订单明细" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="845" width="50" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
