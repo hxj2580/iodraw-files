@@ -296,6 +296,16 @@
         <mxCell id="XTc9dN6DFgT7qN0inqG1-77" value="实收金额" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="609" y="640" width="50" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="XTc9dN6DFgT7qN0inqG1-92" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="XTc9dN6DFgT7qN0inqG1-78">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="340" y="550" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="514" y="620" />
+              <mxPoint x="341" y="620" />
+              <mxPoint x="341" y="550" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="XTc9dN6DFgT7qN0inqG1-78" value="用户名" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="489" y="640" width="50" height="30" as="geometry" />
         </mxCell>
