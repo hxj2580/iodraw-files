@@ -761,8 +761,8 @@
         <mxCell id="XTc9dN6DFgT7qN0inqG1-207" value="所属" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="610" y="1035" width="50" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="XTc9dN6DFgT7qN0inqG1-208" value="分类" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="439" y="1010" width="50" height="20" as="geometry" />
+        <mxCell id="XTc9dN6DFgT7qN0inqG1-208" value="菜品口味关系" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="610" y="1105" width="70" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
