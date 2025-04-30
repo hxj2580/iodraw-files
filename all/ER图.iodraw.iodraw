@@ -795,7 +795,7 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="650" y="1130" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="634" y="1150" />
+              <mxPoint x="615" y="1150" />
               <mxPoint x="651" y="1150" />
               <mxPoint x="651" y="1130" />
             </Array>
@@ -813,7 +813,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="XTc9dN6DFgT7qN0inqG1-215" value="菜品ID" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="669" y="1179" width="50" height="30" as="geometry" />
+          <mxGeometry x="650" y="1179" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="XTc9dN6DFgT7qN0inqG1-221" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="XTc9dN6DFgT7qN0inqG1-216" target="XTc9dN6DFgT7qN0inqG1-208">
           <mxGeometry relative="1" as="geometry">
