@@ -115,11 +115,11 @@
         <mxCell id="XTc9dN6DFgT7qN0inqG1-27" value="购物车" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="500" y="470" width="50" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="XTc9dN6DFgT7qN0inqG1-36" value="头像" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="590" y="640" width="50" height="30" as="geometry" />
+        <mxCell id="XTc9dN6DFgT7qN0inqG1-36" value="金额" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="610" y="630" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="XTc9dN6DFgT7qN0inqG1-37" value="菜品ID" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="590" y="590" width="50" height="30" as="geometry" />
+          <mxGeometry x="610" y="585" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="XTc9dN6DFgT7qN0inqG1-38" value="数量" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="600" y="495" width="50" height="30" as="geometry" />
