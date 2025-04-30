@@ -519,13 +519,12 @@
             <mxPoint x="394" y="1047.5" as="sourcePoint" />
             <mxPoint x="400" y="802.5" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="400" y="1200" />
-              <mxPoint x="400" y="800" />
+              <mxPoint x="404" y="800" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="XTc9dN6DFgT7qN0inqG1-149" value="所属" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="379" y="1200" width="50" height="30" as="geometry" />
+          <mxGeometry x="379" y="1240" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
