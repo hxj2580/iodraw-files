@@ -206,6 +206,11 @@
         <mxCell id="XTc9dN6DFgT7qN0inqG1-53" value="订单" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="320" y="530" width="50" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="XTc9dN6DFgT7qN0inqG1-98" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="XTc9dN6DFgT7qN0inqG1-55">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="40" y="760" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="XTc9dN6DFgT7qN0inqG1-55" value="所属" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="150" y="540" width="50" height="30" as="geometry" />
         </mxCell>
