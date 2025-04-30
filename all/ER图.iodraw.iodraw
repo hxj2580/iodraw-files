@@ -618,7 +618,7 @@
         <mxCell id="XTc9dN6DFgT7qN0inqG1-173" value="套餐菜品关系" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="163.5" y="1179" width="81" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="XTc9dN6DFgT7qN0inqG1-185" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="XTc9dN6DFgT7qN0inqG1-174" target="XTc9dN6DFgT7qN0inqG1-173">
+        <mxCell id="XTc9dN6DFgT7qN0inqG1-185" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="XTc9dN6DFgT7qN0inqG1-174" target="XTc9dN6DFgT7qN0inqG1-173">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="XTc9dN6DFgT7qN0inqG1-174" value="ID" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -629,6 +629,9 @@
         </mxCell>
         <mxCell id="XTc9dN6DFgT7qN0inqG1-180" value="菜品名称" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="239" y="1220" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XTc9dN6DFgT7qN0inqG1-186" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="XTc9dN6DFgT7qN0inqG1-181" target="XTc9dN6DFgT7qN0inqG1-173">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="XTc9dN6DFgT7qN0inqG1-181" value="份数" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="99" y="1220" width="50" height="30" as="geometry" />
