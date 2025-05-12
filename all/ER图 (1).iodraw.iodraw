@@ -122,11 +122,19 @@
         <mxCell id="TY_hEyNZ10gMUsR0WW8f-31" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;用户下单&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="900" y="610" width="40" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="TY_hEyNZ10gMUsR0WW8f-33" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;地址管理&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1080" y="590" width="40" height="120" as="geometry" />
-        </mxCell>
-        <mxCell id="TY_hEyNZ10gMUsR0WW8f-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="TY_hEyNZ10gMUsR0WW8f-34" target="TY_hEyNZ10gMUsR0WW8f-15">
+        <mxCell id="TY_hEyNZ10gMUsR0WW8f-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="TY_hEyNZ10gMUsR0WW8f-33" target="TY_hEyNZ10gMUsR0WW8f-15">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TY_hEyNZ10gMUsR0WW8f-33" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;地址管理&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1080" y="610" width="40" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="TY_hEyNZ10gMUsR0WW8f-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="TY_hEyNZ10gMUsR0WW8f-34" target="TY_hEyNZ10gMUsR0WW8f-15">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1030" y="540" />
+              <mxPoint x="700" y="540" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="TY_hEyNZ10gMUsR0WW8f-34" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;微信支付&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1010" y="610" width="40" height="120" as="geometry" />
