@@ -28,7 +28,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="TY_hEyNZ10gMUsR0WW8f-15" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;用户端&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="760" y="400" width="140" height="50" as="geometry" />
+          <mxGeometry x="830" y="400" width="140" height="50" as="geometry" />
         </mxCell>
         <mxCell id="TY_hEyNZ10gMUsR0WW8f-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="TY_hEyNZ10gMUsR0WW8f-23" target="TY_hEyNZ10gMUsR0WW8f-14">
           <mxGeometry relative="1" as="geometry">
@@ -120,7 +120,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="TY_hEyNZ10gMUsR0WW8f-31" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;用户下单&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="820" y="580" width="40" height="120" as="geometry" />
+          <mxGeometry x="880" y="580" width="40" height="120" as="geometry" />
         </mxCell>
         <mxCell id="TY_hEyNZ10gMUsR0WW8f-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="TY_hEyNZ10gMUsR0WW8f-33" target="TY_hEyNZ10gMUsR0WW8f-15">
           <mxGeometry relative="1" as="geometry">
