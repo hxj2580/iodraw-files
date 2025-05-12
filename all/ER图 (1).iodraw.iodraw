@@ -87,7 +87,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="TY_hEyNZ10gMUsR0WW8f-28" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;商品浏览&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="700" y="590" width="40" height="120" as="geometry" />
+          <mxGeometry x="700" y="580" width="40" height="120" as="geometry" />
         </mxCell>
         <mxCell id="TY_hEyNZ10gMUsR0WW8f-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="TY_hEyNZ10gMUsR0WW8f-29" target="TY_hEyNZ10gMUsR0WW8f-15">
           <mxGeometry relative="1" as="geometry">
@@ -98,7 +98,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="TY_hEyNZ10gMUsR0WW8f-29" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;购物车&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="790" y="610" width="40" height="120" as="geometry" />
+          <mxGeometry x="800" y="580" width="40" height="120" as="geometry" />
         </mxCell>
         <mxCell id="TY_hEyNZ10gMUsR0WW8f-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="TY_hEyNZ10gMUsR0WW8f-30" target="TY_hEyNZ10gMUsR0WW8f-15">
           <mxGeometry relative="1" as="geometry">
@@ -109,7 +109,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="TY_hEyNZ10gMUsR0WW8f-30" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;微信登录&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="590" y="580" width="40" height="120" as="geometry" />
+          <mxGeometry x="600" y="580" width="40" height="120" as="geometry" />
         </mxCell>
         <mxCell id="TY_hEyNZ10gMUsR0WW8f-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="TY_hEyNZ10gMUsR0WW8f-31" target="TY_hEyNZ10gMUsR0WW8f-15">
           <mxGeometry relative="1" as="geometry">
