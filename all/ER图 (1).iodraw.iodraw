@@ -43,7 +43,7 @@
         <mxCell id="TY_hEyNZ10gMUsR0WW8f-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="TY_hEyNZ10gMUsR0WW8f-15" target="TY_hEyNZ10gMUsR0WW8f-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="TY_hEyNZ10gMUsR0WW8f-15" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;用户端&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="TY_hEyNZ10gMUsR0WW8f-15" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;用户端&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="630" y="400" width="150" height="60" as="geometry" />
         </mxCell>
       </root>
