@@ -46,6 +46,12 @@
         <mxCell id="TY_hEyNZ10gMUsR0WW8f-31" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;用户下单&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="900" y="590" width="40" height="120" as="geometry" />
         </mxCell>
+        <mxCell id="TY_hEyNZ10gMUsR0WW8f-33" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;用户下单&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1080" y="590" width="40" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="TY_hEyNZ10gMUsR0WW8f-34" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;微信支付&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1010" y="590" width="40" height="120" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
