@@ -87,6 +87,11 @@
         <mxCell id="TY_hEyNZ10gMUsR0WW8f-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TY_hEyNZ10gMUsR0WW8f-29">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="700" y="450" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="810" y="520" />
+              <mxPoint x="701" y="520" />
+              <mxPoint x="701" y="450" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="TY_hEyNZ10gMUsR0WW8f-29" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;购物车&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
