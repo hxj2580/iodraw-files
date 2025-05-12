@@ -22,17 +22,17 @@
         <mxCell id="TY_hEyNZ10gMUsR0WW8f-15" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;用户端&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="630" y="400" width="140" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="TY_hEyNZ10gMUsR0WW8f-19" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;管理端&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="300" y="430" width="150" height="60" as="geometry" />
+        <mxCell id="TY_hEyNZ10gMUsR0WW8f-23" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;员工管理&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="530" width="40" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="TY_hEyNZ10gMUsR0WW8f-20" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;管理端&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="310" y="440" width="150" height="60" as="geometry" />
+        <mxCell id="TY_hEyNZ10gMUsR0WW8f-24" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;员工管理&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="540" width="40" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="TY_hEyNZ10gMUsR0WW8f-21" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;管理端&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="320" y="450" width="150" height="60" as="geometry" />
+        <mxCell id="TY_hEyNZ10gMUsR0WW8f-25" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;员工管理&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="550" width="40" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="TY_hEyNZ10gMUsR0WW8f-22" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;管理端&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="330" y="460" width="150" height="60" as="geometry" />
+        <mxCell id="TY_hEyNZ10gMUsR0WW8f-26" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;员工管理&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="560" width="40" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
