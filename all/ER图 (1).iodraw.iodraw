@@ -10,8 +10,8 @@
         <mxCell id="TY_hEyNZ10gMUsR0WW8f-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="TY_hEyNZ10gMUsR0WW8f-5" target="TY_hEyNZ10gMUsR0WW8f-14">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="130" y="550" />
-              <mxPoint x="300" y="550" />
+              <mxPoint x="130" y="540" />
+              <mxPoint x="300" y="540" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -33,8 +33,8 @@
         <mxCell id="TY_hEyNZ10gMUsR0WW8f-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="TY_hEyNZ10gMUsR0WW8f-23" target="TY_hEyNZ10gMUsR0WW8f-14">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="460" y="550" />
-              <mxPoint x="300" y="550" />
+              <mxPoint x="460" y="540" />
+              <mxPoint x="300" y="540" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -45,8 +45,9 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="299.9999999999998" y="450" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="230" y="550" />
-              <mxPoint x="301" y="550" />
+              <mxPoint x="230" y="580" />
+              <mxPoint x="230" y="540" />
+              <mxPoint x="301" y="540" />
               <mxPoint x="301" y="450" />
             </Array>
           </mxGeometry>
@@ -108,7 +109,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="TY_hEyNZ10gMUsR0WW8f-30" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;微信登录&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="600" y="580" width="40" height="120" as="geometry" />
+          <mxGeometry x="590" y="580" width="40" height="120" as="geometry" />
         </mxCell>
         <mxCell id="TY_hEyNZ10gMUsR0WW8f-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="TY_hEyNZ10gMUsR0WW8f-31" target="TY_hEyNZ10gMUsR0WW8f-15">
           <mxGeometry relative="1" as="geometry">
