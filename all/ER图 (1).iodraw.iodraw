@@ -147,13 +147,13 @@
         <mxCell id="TY_hEyNZ10gMUsR0WW8f-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="TY_hEyNZ10gMUsR0WW8f-35" target="TY_hEyNZ10gMUsR0WW8f-15">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1180" y="540" />
-              <mxPoint x="830" y="540" />
+              <mxPoint x="1140" y="540" />
+              <mxPoint x="900" y="540" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="TY_hEyNZ10gMUsR0WW8f-35" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;历史订单&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1150" y="580" width="40" height="120" as="geometry" />
+          <mxGeometry x="1120" y="580" width="40" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
