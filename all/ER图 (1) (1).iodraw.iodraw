@@ -59,13 +59,13 @@
             <mxPoint x="299.9999999999998" y="450" as="targetPoint" />
             <Array as="points">
               <mxPoint x="270" y="580" />
-              <mxPoint x="270" y="515" />
-              <mxPoint x="300" y="515" />
+              <mxPoint x="270" y="540" />
+              <mxPoint x="300" y="540" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="TY_hEyNZ10gMUsR0WW8f-25" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;菜品管理&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="280" y="580" width="40" height="120" as="geometry" />
+          <mxGeometry x="260" y="580" width="40" height="120" as="geometry" />
         </mxCell>
         <mxCell id="TY_hEyNZ10gMUsR0WW8f-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;strokeWidth=2;" parent="1" source="TY_hEyNZ10gMUsR0WW8f-26" target="TY_hEyNZ10gMUsR0WW8f-14" edge="1">
           <mxGeometry relative="1" as="geometry">
