@@ -39,7 +39,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="TY_hEyNZ10gMUsR0WW8f-23" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;数据统计&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="440" y="580" width="40" height="120" as="geometry" />
+          <mxGeometry x="510" y="580" width="40" height="120" as="geometry" />
         </mxCell>
         <mxCell id="TY_hEyNZ10gMUsR0WW8f-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;endArrow=none;endFill=0;strokeWidth=2;" parent="1" source="TY_hEyNZ10gMUsR0WW8f-24" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -155,7 +155,7 @@
         <mxCell id="TY_hEyNZ10gMUsR0WW8f-35" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;历史订单&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="1120" y="580" width="40" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="IWuQGILygTZ78r1fRvRa-1" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;数据统计&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="IWuQGILygTZ78r1fRvRa-1" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;分类管理&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="500" y="690" width="40" height="120" as="geometry" />
         </mxCell>
       </root>
